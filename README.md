@@ -20,9 +20,8 @@ TapMe is a fun and engaging Telegram Mini App that allows users to earn coins by
 
 Visit the live demo of TapMe here: [tapme.vercel.app/]
 
-**Installation (if applicable)**
+**Installation **
 
-If your project requires specific installation steps, outline them clearly in this section.
 
 **Usage**
 
@@ -33,4 +32,13 @@ Explain how users can interact with the app within Telegram. This might involve 
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/tapme.git
+   git clone [https://github.com/](https://github.com/rk28284/TapMe-)
+2. 
+  ```bash
+cd Tapme
+
+3.
+  ```bash
+  npm i 
+4.
+npm start
