@@ -1,3 +1,4 @@
+# TapMe: Earn Coins with a Tap (Telegram Mini App)
 TapMe is a fun and engaging Telegram Mini App that allows users to earn coins by simply tapping a button. The app is built on modern web technologies and integrates seamlessly with the Telegram platform.
 
 **Features**
